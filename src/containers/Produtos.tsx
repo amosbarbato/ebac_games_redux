@@ -1,4 +1,3 @@
-import { Game } from '../App'
 import Produto from '../components/Produto'
 import { useGetJogosQuery } from '../services/api'
 
